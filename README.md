@@ -1,2 +1,2 @@
 # rsschool-cv
-https://starburned7.github.io/rsschool-cv/cv
+https://starburned7.github.io/rsschool-cv/
